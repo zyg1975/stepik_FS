@@ -1,1 +1,2 @@
 добавил новый компонент регистрации
+authorization_component
